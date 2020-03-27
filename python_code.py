@@ -1,3 +1,7 @@
-print ("Hello Github")
-print("Hello World")
-after test
+
+This file will be used to complete the Coursera IBM Data Science Capstone Final Project
+
+import pandas as pd
+import bumpy as np
+
+print("Hello Capstone Project Course!") 
